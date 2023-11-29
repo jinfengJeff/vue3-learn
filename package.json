@@ -1,0 +1,13 @@
+{
+  "name": "learnv3",
+  "version": "1.0.0",
+  "description": "learning vue3",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index",
+    "dev:cjs": "node src/cjs/index.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kazei",
+  "license": "MIT"
+}
